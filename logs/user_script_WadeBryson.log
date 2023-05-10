@@ -1,0 +1,22 @@
+2023-05-10 11:49:08,388 =============================================================
+2023-05-10 11:49:08,388 =============================================================
+2023-05-10 11:49:08,388 Today is 2023-05-10 at 11:49 AM
+2023-05-10 11:49:08,493 This file is running on: nt Windows 10
+2023-05-10 11:49:08,493 The Python version is: 3.11.3
+2023-05-10 11:49:08,493 The active conda environment is:  None
+2023-05-10 11:49:08,493 The active pip environment is:    None
+2023-05-10 11:49:08,493 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-10 11:49:08,494 The current working directory is: C:\Users\WadeBryson\Documents\datafun-01-getting-started-1
+2023-05-10 11:49:08,494 This source file is in:           c:\Users\WadeBryson\Documents\datafun-01-getting-started-1
+2023-05-10 11:49:08,494 =============================================================
+2023-05-10 11:49:08,494 =============================================================
+2023-05-10 11:49:32,857 Below I have a statistical analysis of your first three basketball games.
+2023-05-10 11:49:32,857 1. Sum = 126.0.
+2023-05-10 11:49:32,857 2. Average points per game = 42.0
+2023-05-10 11:49:32,857 3. Product = 16200.0
+2023-05-10 11:49:32,857 4. Least points scored = 5.0
+2023-05-10 11:49:32,862 5. Most points scored = 81.0
+2023-05-10 11:49:32,862 6. Range = 76.0
+2023-05-10 11:49:32,862 Wow! Your scores are really spread out!
+2023-05-10 11:49:32,862 Your lowest score was 5.0..... Did you even try?
+2023-05-10 11:49:32,862 Congratulations! You are showing improvement with your scores!
