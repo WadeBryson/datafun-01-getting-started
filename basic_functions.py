@@ -72,13 +72,9 @@ logger.info(f"response = {response}")
 print(f"You said {response}!")
 print(f"{hint}")
 
-if response == "y":
+if response == "n":
     print()
-    print("Let's open a web page. Python makes it easy!")
-    webbrowser.open_new(url)
+    print("Please reconsider your decision.")
     print()
-    print("There's a lot of built-in functions ready to use!")
-    print("We'll learn more about them later.")
-    print()
-
-# TODO: Run with different responses n, y, other...
+    print("Python has tons of functions that you will enjoy using!")
+ 
