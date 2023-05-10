@@ -79,5 +79,6 @@ if smallest < 20:
 if game2 > game1 or game3 > game2:
     logger.info(f"Congratulations! You are showing improvement with your scores!")
 
+# Print the logged information
 with open(logname, 'r') as file_wrapper:
     print(file_wrapper.read())
