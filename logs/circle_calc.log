@@ -1,0 +1,16 @@
+2023-05-10 09:23:21,327 =============================================================
+2023-05-10 09:23:21,327 =============================================================
+2023-05-10 09:23:21,327 Today is 2023-05-10 at 09:23 AM
+2023-05-10 09:23:21,431 This file is running on: nt Windows 10
+2023-05-10 09:23:21,431 The Python version is: 3.11.3
+2023-05-10 09:23:21,432 The active conda environment is:  None
+2023-05-10 09:23:21,432 The active pip environment is:    None
+2023-05-10 09:23:21,432 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-10 09:23:21,432 The current working directory is: C:\Users\WadeBryson\Documents\datafun-01-getting-started-1
+2023-05-10 09:23:21,432 This source file is in:           c:\Users\WadeBryson\Documents\datafun-01-getting-started-1
+2023-05-10 09:23:21,433 =============================================================
+2023-05-10 09:23:21,433 =============================================================
+2023-05-10 09:23:24,342 The area of a circle with radius 4.0 is 50.26548245743669.
+2023-05-10 09:23:24,342 Why would anyone want to deal with that many decimal places.........
+2023-05-10 09:23:24,342 The area of a circle with radius 4.0 is 50.27.
+2023-05-10 09:23:24,343 That looks much cleaner!

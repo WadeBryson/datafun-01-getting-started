@@ -2,7 +2,7 @@
 
 Purpose: Calculate the area of a circle.
 
-Author: Denise Case
+Author: Wade Bryson
 
 This script illustrates importing modules and using constants.
 
@@ -39,7 +39,7 @@ area = pi * radius**2
 
 # log the results
 logger.info(f"The area of a circle with radius {radius} is {area}.")
-logger.info("Eww... that's a lot of decimal places - tmi!")
+logger.info("Why would anyone want to deal with that many decimal places.........")
 
 
 # round the area to two decimal places
@@ -47,7 +47,7 @@ area = round(area, 2)
 
 # log the results
 logger.info(f"The area of a circle with radius {radius} is {area}.")
-logger.info("Much better!")
+logger.info("That looks much cleaner!")
 
 
 # Use built-in open() function to read log file and print it to the terminal

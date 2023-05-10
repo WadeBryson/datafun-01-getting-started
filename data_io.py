@@ -4,7 +4,7 @@ process the data, and write processed information to a new file.
 
 Illustrates pathlib and the joinpath function for safe cross-platform file path creation.
 
-Author: Denise Case
+Author: Wade Bryson
 
 This file name is:   dataio.py
 This module name is: dataio
@@ -46,9 +46,9 @@ with open(inpath, "w", newline="") as file_wrapper:
     writer = csv.writer(file_wrapper)
     # write our list to the csv file - each row is a list
     writer.writerow(["animal", "weight_lbs", "age_years", "visit_cost"])
-    writer.writerow(["cat", 14.7, 3, 100.00])
-    writer.writerow(["dog", 89.4, 5, 100.00])
-    writer.writerow(["lizard", 0.85, 1, 100.00])
+    writer.writerow(["lion", 71.2, 5, 100.00])
+    writer.writerow(["elephant", 650, 3, 100.00])
+    writer.writerow(["ape", 315, 9, 100.00])
     
 # Read our data from inputs.csv - r is for read
 datalist = []

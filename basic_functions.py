@@ -1,7 +1,7 @@
 """
 Purpose: Illustrate basic functions in Python.
 
-Author: Denise Case
+Author: Wade Bryson
 
 This file name is:   basic_functions.py
 This module name is: basic_functions
@@ -76,5 +76,5 @@ if response == "n":
     print()
     print("Please reconsider your decision.")
     print()
-    print("Python has tons of functions that you will enjoy using!")
+    print("Python has tons of functions that are very helpful!")
  

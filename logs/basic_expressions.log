@@ -1,0 +1,16 @@
+2023-05-10 09:20:31,141 =============================================================
+2023-05-10 09:20:31,141 =============================================================
+2023-05-10 09:20:31,141 Today is 2023-05-10 at 09:20 AM
+2023-05-10 09:20:31,250 This file is running on: nt Windows 10
+2023-05-10 09:20:31,250 The Python version is: 3.11.3
+2023-05-10 09:20:31,250 The active conda environment is:  None
+2023-05-10 09:20:31,250 The active pip environment is:    None
+2023-05-10 09:20:31,250 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-10 09:20:31,266 The current working directory is: C:\Users\WadeBryson\Documents\datafun-01-getting-started-1
+2023-05-10 09:20:31,266 This source file is in:           c:\Users\WadeBryson\Documents\datafun-01-getting-started-1
+2023-05-10 09:20:31,266 =============================================================
+2023-05-10 09:20:31,266 =============================================================
+2023-05-10 09:20:31,266 Given base=20 and height=3, the triangle area = 30.0
+2023-05-10 09:20:31,266 Given a=5.4 and b=3.5, the sum = 8.9
+2023-05-10 09:20:31,266 Given i=41 and j=12, the difference = 29
+2023-05-10 09:20:31,266 Given base=15 and height=10, the rectangle area = 150

@@ -96,10 +96,10 @@ lowest = min(uni_data)
 highest = max(uni_data)
 
 # TODO: change to f-strings and use 2 decimal places (like we did above)
-logger.info("var    = " + str(var))
-logger.info("stdev  = " + str(stdev))
-logger.info("lowest = " + str(lowest))
-logger.info("highest= " + str(highest))
+logger.info(f"var    = {var:.2f}")
+logger.info(f"stdev  = {stdev:.2f}")
+logger.info(f"lowest = {lowest:.2f}")
+logger.info(f"highest= {highest:.2f}")
 
 
 # Descriptive: Univariant Timeseries Data.........................
@@ -173,7 +173,7 @@ logger.info("Remember to close the app. Control c (or d or z maybe) to close it.
 
 # is the user ready to see a chart?
 # TODO: change this to True when ready
-ready_for_chart = False
+ready_for_chart = True
 
 logger.info(f"ready_for_chart = {ready_for_chart}")
 
